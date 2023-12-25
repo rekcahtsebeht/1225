@@ -27,15 +27,18 @@
 
 
 **四、系统结构图**
+
 ![image](https://github.com/rekcahtsebeht/1225/blob/main/01.drawio.png)
 
 
 **五、论文文档截图**
+
 ![image](https://github.com/rekcahtsebeht/1225/blob/main/p1-1.png)
 ![image](https://github.com/rekcahtsebeht/1225/blob/main/p1-2.png)
 
 
 **六、页面截图**
+
 ![image](https://github.com/rekcahtsebeht/1225/blob/main/p1-3.png)
 ![image](https://github.com/rekcahtsebeht/1225/blob/main/p1-4.png)
 ![image](https://github.com/rekcahtsebeht/1225/blob/main/p1-5.png)
