@@ -8,8 +8,15 @@
 该系统功能完善、界面美观、操作简单、功能齐全、管理便捷，具有很高的实际应用价值
 
 
+
 ![image](https://github.com/rekcahtsebeht/1225/blob/main/01.drawio.png)
 
+**二、技术实现**
+
+后端：servlet
+前端采用：jsp，js，css
+数据库：mysql5.0及以上
+运行环境及开发工具：jdk，idea或者eclipse，Navicat，tomcat
 
 
 ![image]()
