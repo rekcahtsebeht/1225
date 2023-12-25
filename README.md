@@ -1,5 +1,5 @@
 # 1225
-![image]()
+
 
 **一、项目简介**
 
@@ -11,7 +11,6 @@
 
 
 
-![image](https://github.com/rekcahtsebeht/1225/blob/main/01.drawio.png)
 
 **二、技术实现**
 
@@ -47,11 +46,12 @@
 ![image](https://github.com/rekcahtsebeht/1225/blob/main/p1-10.png)
 ![image](https://github.com/rekcahtsebeht/1225/blob/main/p1-11.png)
 ![image](https://github.com/rekcahtsebeht/1225/blob/main/p1-12.png)
-
+![image](https://github.com/rekcahtsebeht/1225/blob/main/p1-13.png)
 
 
 
 **七、数据库**
+
 ![image](https://github.com/rekcahtsebeht/1225/blob/main/02.drawio.png)
 
 **八、源码地址**
@@ -62,5 +62,3 @@ https://download.csdn.net/download/weixin_43860634/87516948
 
 
 
-
-![image]()
