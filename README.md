@@ -1,6 +1,6 @@
 # 1225
-![image]()
-sxedfr
+![image](https://github.com/rekcahtsebeht/1225/blob/main/01.drawio.png)
 
-fr4f4f
+
+
 ![image]()
